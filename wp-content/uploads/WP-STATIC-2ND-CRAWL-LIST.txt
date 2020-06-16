@@ -1,0 +1,12 @@
+/2020/04/24/hallo-wereld/feed/
+/author/luukwille/
+/category/geen-categorie/feed/
+/comments/feed/
+/feed/
+/wp-content/cache/minify/4ecd1.js
+/wp-content/cache/minify/69281.css
+/wp-content/cache/minify/7ad41.css
+/wp-content/cache/minify/b4f81.css
+/wp-includes/wlwmanifest.xml
+/wp-json/
+/wp-json/oembed/1.0/embed
